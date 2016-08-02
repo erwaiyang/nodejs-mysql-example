@@ -1,0 +1,23 @@
+{
+  "name": "tac",
+  "version": "1.0.0",
+  "description": "tac",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/erwaiyang/node-mysql.git"
+  },
+  "keywords": [
+    "mysql",
+    "node"
+  ],
+  "author": "Jean Yang",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/erwaiyang/node-mysql/issues"
+  },
+  "homepage": "https://github.com/erwaiyang/node-mysql#readme"
+}
