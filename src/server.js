@@ -34,3 +34,5 @@ const SERVER_IP_ADDRESS = process.env.NODEJS_IP || '127.0.0.1';
 app.listen(SERVER_PORT, SERVER_IP_ADDRESS, () => {
   console.log(`Listening on ${SERVER_IP_ADDRESS}, server_port ${SERVER_PORT}`);
 });
+
+module.exports = app;
